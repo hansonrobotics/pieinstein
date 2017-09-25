@@ -10,7 +10,8 @@ This will force  the robot to fail on going Online, stop trying and then Go Mobi
 Go Mobile : That is to say the robot will set his Wifi in AP mode and if pressed on the chest button it will verbose credential
 
 Example
-AP = EINSTEIN3333
+
+AP = EINSTEIN3333\
 PSK = genius1234
 
 ## Direct control from a PC
