@@ -1,6 +1,6 @@
 # Control Einstein Robot from a PC with python scripts
 
-## Force robot in Mobile mode (with firmware verion of 2017-09-19)
+## Force robot in Mobile mode (with firmware version of 2017-09-19)
 Configure with Stein-O-Matic with an internet AP that will no longer exist after config.
 
 Like using a temporary config of an AP on your home WiFi router and then after complete config of the robot, then change back to the original AP.
@@ -50,6 +50,7 @@ s.send(fullmsg.encode('utf-8'))
 |  "<MO=EL,1.0,0.3><PM><MO=EL,0.0,0.3>" | blink eyes  |
 
 4. full documentation
-more example to be added soon.
+
+More examples to be added soon.
 
 
