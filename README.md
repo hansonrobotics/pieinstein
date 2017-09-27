@@ -47,7 +47,7 @@ s.send(fullmsg.encode('utf-8'))
 | command line  |     effect    |
 | --------------- | ------------- |
 | "Hello, world"  | say the text  |
-|  "<WK=WK2>" | make the robot walk  |
+|  "<WK=W2>" | make the robot walk  |
 |  "<MO=EL,1.0,0.3><PM><MO=EL,0.0,0.3>" | blink eyes  |
 
 4. full documentation
