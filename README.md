@@ -7,11 +7,11 @@ Like using a temporary config of an AP on your home WiFi router and then after c
 
 This will force  the robot to fail on going Online, stop trying and then Go Mobile as failsafe.
 
-Go Mobile : That is to say the robot will set his Wifi in AP mode and if pressed on the chest button it will verbose credential
+Go Mobile : That is to say the robot will set his Wifi in AP mode and if pressed on the chest button, the robot will tell his credential
 
 ***Example:***
 
-AP = EINSTEIN3333\
+APN = EINSTEIN3333\
 PSK = genius1234
 
 ## Direct control from a PC
